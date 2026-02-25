@@ -1,5 +1,10 @@
 # AI Signal Board
 
+在线访问（GitHub Pages）：https://xingjia10086.github.io/ai-news-radar/
+
+[![Update AI News Snapshot](https://github.com/xingjia10086/ai-news-radar/actions/workflows/update-news.yml/badge.svg?branch=master)](https://github.com/xingjia10086/ai-news-radar/actions/workflows/update-news.yml)
+[![Deploy static site to GitHub Pages](https://github.com/xingjia10086/ai-news-radar/actions/workflows/deploy-pages.yml/badge.svg?branch=master)](https://github.com/xingjia10086/ai-news-radar/actions/workflows/deploy-pages.yml)
+
 中文 | [English](#english)
 
 高质量 AI/科技新闻聚合项目，支持静态网页展示、24h 增量更新、WaytoAGI 更新日志、OPML RSS 批量接入、失败源替换与告警。
