@@ -94,6 +94,10 @@ python -m http.server 8080
 
 ## English
 
+Live site (GitHub Pages): https://xingjia10086.github.io/ai-news-radar/
+
+[![Deploy static site to GitHub Pages](https://github.com/xingjia10086/ai-news-radar/actions/workflows/deploy-pages.yml/badge.svg?branch=master)](https://github.com/xingjia10086/ai-news-radar/actions/workflows/deploy-pages.yml)
+
 Production-grade AI/tech news aggregator with a static web UI, 24h updates, WaytoAGI timeline, and OPML RSS ingestion.
 
 This repo is safe for public release and does **not** include the maintainer's private RSS subscription file.
