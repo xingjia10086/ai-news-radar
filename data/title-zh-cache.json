@@ -4486,5 +4486,6 @@
   "Marketing for Founders": "创始人营销",
   "In Praise of Stupid Questions": "赞扬愚蠢的问题",
   "MCP is dead; long live MCP": "MCP已死； MCP万岁",
-  "Gigabyte MZ33-AR1: A Unique AMD EPYC 9005 Motherboard for Open-Source Firmware": "Gigabyte MZ33-AR1：适用于开源固件的独特 AMD EPYC 9005 主板"
+  "Gigabyte MZ33-AR1: A Unique AMD EPYC 9005 Motherboard for Open-Source Firmware": "Gigabyte MZ33-AR1：适用于开源固件的独特 AMD EPYC 9005 主板",
+  "Offloading FFmpeg with Cloudflare": "使用 Cloudflare 卸载 FFmpeg"
 }
